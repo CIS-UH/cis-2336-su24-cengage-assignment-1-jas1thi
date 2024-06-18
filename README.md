@@ -1,5 +1,4 @@
-TASK 1 
- Hands-On task1: Financial Planning Tips
+# Hands-On task1: Financial Planning Tips
 
 ## Project Description
 In this project, you will use the `document.write()` method to create an ordered list of financial planning tips on a web page. The final result should match the image provided in Figure 1-23.
@@ -21,7 +20,6 @@ In this project, you will use the `document.write()` method to create an ordered
 ## Submission
 Once you have completed the project, submit your `task1.html` file for grading.
 
-TASK 2
 # Hands-On task2: Debugging Challenge
 
 ## Project Description
